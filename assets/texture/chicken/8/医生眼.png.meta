@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "017c4bd0-7b2e-471f-847e-f108dc54f559",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 5,
+  "height": 5,
+  "platformSettings": {},
+  "subMetas": {
+    "医生眼": {
+      "ver": "1.0.4",
+      "uuid": "7794ba5f-34dd-4aa0-8563-b18bac3c1e13",
+      "rawTextureUuid": "017c4bd0-7b2e-471f-847e-f108dc54f559",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 5,
+      "height": 5,
+      "rawWidth": 5,
+      "rawHeight": 5,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
